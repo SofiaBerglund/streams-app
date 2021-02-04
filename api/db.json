@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "A Title",
+      "description": "A description",
+      "id": 1
+    },
+    {
+      "title": "Another title 2",
+      "description": "Another description 2",
+      "id": 2
+    },
+    {
+      "title": "newtitle 3 ändrad igen",
+      "description": "new description 3 ändrad igen",
+      "id": 3,
+      "userId": "110013605034357784942"
+    },
+    {
+      "title": "newtitle 2 ändrad igen",
+      "description": "new description 2 ändrad igen",
+      "id": 4,
+      "userId": "110013605034357784942"
+    },
+    {
+      "title": "A new stream here!",
+      "description": "Yay! Yay!",
+      "userId": "110013605034357784942",
+      "id": 5
+    }
+  ]
+}
